@@ -4,7 +4,6 @@
 # Dashboard Screenshot 📸
 # Below is the dashboard created during the analysis:
 
-
 # Key Features of the Analysis:
 Breakdown by Release Year: Visualized trends in movies and TV shows released each year.
 Genre Insights: Analyzed popular categories like Action & Adventure, TV Comedies, and Thrillers.
